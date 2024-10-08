@@ -1,0 +1,555 @@
+{
+    "facets": [
+        {
+            "Id": "A_Width",
+            "Options": [
+                {
+                    "Selected": false,
+                    "Value": "2,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "2,75"
+                },
+                {
+                    "Selected": false,
+                    "Value": "3,00"
+                },
+                {
+                    "Selected": false,
+                    "Value": "3,25"
+                },
+                {
+                    "Selected": false,
+                    "Value": "3,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "4,00"
+                },
+                {
+                    "Selected": false,
+                    "Value": "4,10"
+                },
+                {
+                    "Selected": false,
+                    "Value": "5,00"
+                },
+                {
+                    "Selected": false,
+                    "Value": "5,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "6,00"
+                },
+                {
+                    "Selected": false,
+                    "Value": "6,4"
+                },
+                {
+                    "Selected": false,
+                    "Value": "6,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "7,00"
+                },
+                {
+                    "Selected": false,
+                    "Value": "7,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "9,00"
+                },
+                {
+                    "Selected": false,
+                    "Value": "12"
+                },
+                {
+                    "Selected": false,
+                    "Value": "17"
+                },
+                {
+                    "Selected": false,
+                    "Value": "20"
+                },
+                {
+                    "Selected": false,
+                    "Value": "22"
+                },
+                {
+                    "Selected": false,
+                    "Value": "26"
+                },
+                {
+                    "Selected": false,
+                    "Value": "27"
+                },
+                {
+                    "Selected": false,
+                    "Value": "28"
+                },
+                {
+                    "Selected": false,
+                    "Value": "29"
+                },
+                {
+                    "Selected": false,
+                    "Value": "30"
+                },
+                {
+                    "Selected": false,
+                    "Value": "31"
+                },
+                {
+                    "Selected": false,
+                    "Value": "32"
+                },
+                {
+                    "Selected": false,
+                    "Value": "33"
+                },
+                {
+                    "Selected": false,
+                    "Value": "35"
+                },
+                {
+                    "Selected": false,
+                    "Value": "36"
+                },
+                {
+                    "Selected": false,
+                    "Value": "37"
+                },
+                {
+                    "Selected": false,
+                    "Value": "38"
+                },
+                {
+                    "Selected": false,
+                    "Value": "39"
+                },
+                {
+                    "Selected": false,
+                    "Value": "40"
+                },
+                {
+                    "Selected": false,
+                    "Value": "60"
+                },
+                {
+                    "Selected": false,
+                    "Value": "70"
+                },
+                {
+                    "Selected": false,
+                    "Value": "80"
+                },
+                {
+                    "Selected": false,
+                    "Value": "85"
+                },
+                {
+                    "Selected": false,
+                    "Value": "90"
+                },
+                {
+                    "Selected": false,
+                    "Value": "95"
+                },
+                {
+                    "Selected": false,
+                    "Value": "100"
+                },
+                {
+                    "Selected": false,
+                    "Value": "105"
+                },
+                {
+                    "Selected": false,
+                    "Value": "110"
+                },
+                {
+                    "Selected": false,
+                    "Value": "115"
+                },
+                {
+                    "Selected": false,
+                    "Value": "120"
+                },
+                {
+                    "Selected": false,
+                    "Value": "125"
+                },
+                {
+                    "Selected": false,
+                    "Value": "130"
+                },
+                {
+                    "Selected": false,
+                    "Value": "135"
+                },
+                {
+                    "Selected": false,
+                    "Value": "140"
+                },
+                {
+                    "Selected": false,
+                    "Value": "145"
+                },
+                {
+                    "Selected": false,
+                    "Value": "150"
+                },
+                {
+                    "Selected": false,
+                    "Value": "155"
+                },
+                {
+                    "Selected": false,
+                    "Value": "160"
+                },
+                {
+                    "Selected": false,
+                    "Value": "165"
+                },
+                {
+                    "Selected": false,
+                    "Value": "170"
+                },
+                {
+                    "Selected": false,
+                    "Value": "175"
+                },
+                {
+                    "Selected": false,
+                    "Value": "180"
+                },
+                {
+                    "Selected": false,
+                    "Value": "185"
+                },
+                {
+                    "Selected": false,
+                    "Value": "190"
+                },
+                {
+                    "Selected": false,
+                    "Value": "195"
+                },
+                {
+                    "Selected": false,
+                    "Value": "200"
+                },
+                {
+                    "Selected": true,
+                    "Value": "205"
+                },
+                {
+                    "Selected": false,
+                    "Value": "210"
+                },
+                {
+                    "Selected": false,
+                    "Value": "215"
+                },
+                {
+                    "Selected": false,
+                    "Value": "225"
+                },
+                {
+                    "Selected": false,
+                    "Value": "235"
+                },
+                {
+                    "Selected": false,
+                    "Value": "240"
+                },
+                {
+                    "Selected": false,
+                    "Value": "245"
+                },
+                {
+                    "Selected": false,
+                    "Value": "250"
+                },
+                {
+                    "Selected": false,
+                    "Value": "255"
+                },
+                {
+                    "Selected": false,
+                    "Value": "265"
+                },
+                {
+                    "Selected": false,
+                    "Value": "275"
+                },
+                {
+                    "Selected": false,
+                    "Value": "280"
+                },
+                {
+                    "Selected": false,
+                    "Value": "285"
+                },
+                {
+                    "Selected": false,
+                    "Value": "295"
+                },
+                {
+                    "Selected": false,
+                    "Value": "305"
+                },
+                {
+                    "Selected": false,
+                    "Value": "315"
+                },
+                {
+                    "Selected": false,
+                    "Value": "325"
+                },
+                {
+                    "Selected": false,
+                    "Value": "335"
+                },
+                {
+                    "Selected": false,
+                    "Value": "345"
+                },
+                {
+                    "Selected": false,
+                    "Value": "355"
+                }
+            ]
+        },
+        {
+            "Id": "A_Diameter",
+            "Options": [
+                {
+                    "Selected": false,
+                    "Value": "8"
+                },
+                {
+                    "Selected": false,
+                    "Value": "10"
+                },
+                {
+                    "Selected": false,
+                    "Value": "11"
+                },
+                {
+                    "Selected": false,
+                    "Value": "12"
+                },
+                {
+                    "Selected": false,
+                    "Value": "13"
+                },
+                {
+                    "Selected": false,
+                    "Value": "14"
+                },
+                {
+                    "Selected": false,
+                    "Value": "15"
+                },
+                {
+                    "Selected": true,
+                    "Value": "16"
+                },
+                {
+                    "Selected": false,
+                    "Value": "16,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "17"
+                },
+                {
+                    "Selected": false,
+                    "Value": "18"
+                },
+                {
+                    "Selected": false,
+                    "Value": "19"
+                },
+                {
+                    "Selected": false,
+                    "Value": "20"
+                },
+                {
+                    "Selected": false,
+                    "Value": "21"
+                },
+                {
+                    "Selected": false,
+                    "Value": "22"
+                },
+                {
+                    "Selected": false,
+                    "Value": "23"
+                },
+                {
+                    "Selected": false,
+                    "Value": "24"
+                },
+                {
+                    "Selected": false,
+                    "Value": "26"
+                },
+                {
+                    "Selected": false,
+                    "Value": "28"
+                },
+                {
+                    "Selected": false,
+                    "Value": "400"
+                }
+            ]
+        },
+        {
+            "Id": "A_Hbv",
+            "Options": [
+                {
+                    "Selected": false,
+                    "Value": "8"
+                },
+                {
+                    "Selected": false,
+                    "Value": "8,0"
+                },
+                {
+                    "Selected": false,
+                    "Value": "8,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "9"
+                },
+                {
+                    "Selected": false,
+                    "Value": "9,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "10"
+                },
+                {
+                    "Selected": false,
+                    "Value": "10,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "11"
+                },
+                {
+                    "Selected": false,
+                    "Value": "11,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "12"
+                },
+                {
+                    "Selected": false,
+                    "Value": "12,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "13"
+                },
+                {
+                    "Selected": false,
+                    "Value": "13,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "15,5"
+                },
+                {
+                    "Selected": false,
+                    "Value": "25"
+                },
+                {
+                    "Selected": false,
+                    "Value": "30"
+                },
+                {
+                    "Selected": false,
+                    "Value": "31"
+                },
+                {
+                    "Selected": false,
+                    "Value": "32"
+                },
+                {
+                    "Selected": false,
+                    "Value": "33"
+                },
+                {
+                    "Selected": false,
+                    "Value": "35"
+                },
+                {
+                    "Selected": false,
+                    "Value": "37"
+                },
+                {
+                    "Selected": false,
+                    "Value": "40"
+                },
+                {
+                    "Selected": false,
+                    "Value": "45"
+                },
+                {
+                    "Selected": false,
+                    "Value": "50"
+                },
+                {
+                    "Selected": true,
+                    "Value": "55"
+                },
+                {
+                    "Selected": false,
+                    "Value": "60"
+                },
+                {
+                    "Selected": false,
+                    "Value": "65"
+                },
+                {
+                    "Selected": false,
+                    "Value": "70"
+                },
+                {
+                    "Selected": false,
+                    "Value": "75"
+                },
+                {
+                    "Selected": false,
+                    "Value": "80"
+                },
+                {
+                    "Selected": false,
+                    "Value": "82"
+                },
+                {
+                    "Selected": false,
+                    "Value": "85"
+                },
+                {
+                    "Selected": false,
+                    "Value": "90"
+                },
+                {
+                    "Selected": false,
+                    "Value": "100"
+                }
+            ]
+        }
+    ]
+}
